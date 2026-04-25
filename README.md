@@ -336,5 +336,5 @@ This project was developed as part of a research portfolio for graduate school a
 ---
 ## Key Visualization
 
-![NYT Sentiment vs Subscribers](nyt_sentiment_subscribers.png)
+![NYT Sentiment vs Subscribers](https://raw.githubusercontent.com/Ak-daulet/ideology-language-news/main/nyt_sentiment_subscribers.png)
 *По вопросам сотрудничества: откройте issue или напишите через LinkedIn.*
