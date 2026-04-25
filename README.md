@@ -337,4 +337,6 @@ This project was developed as part of a research portfolio for graduate school a
 ## Key Visualization
 
 ![NYT Sentiment vs Subscribers](https://raw.githubusercontent.com/Ak-daulet/ideology-language-news/main/nyt_sentiment_subscribers.png)
+## FT vs NYT: тональность и подписки
+![FT vs NYT](ft_nyt_comparison.png)
 *По вопросам сотрудничества: откройте issue или напишите через LinkedIn.*
