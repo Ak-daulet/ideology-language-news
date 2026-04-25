@@ -334,5 +334,7 @@ This project was developed as part of a research portfolio for graduate school a
 Проект разработан как часть исследовательского портфолио для поступления в магистратуру по направлениям **дата-журналистика и вычислительные социальные науки**. Он находится на пересечении медиаисследований, поведенческой экономики и обработки естественного языка.
 
 ---
+## Key Visualization
 
+![NYT Sentiment vs Subscribers](nyt_sentiment_subscribers.png)
 *По вопросам сотрудничества: откройте issue или напишите через LinkedIn.*
